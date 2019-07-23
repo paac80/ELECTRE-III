@@ -26,7 +26,7 @@ g_m
 
 
 ###intercriteria.txt
-The space between data is tab [\t]
+> The space between data is tab [\t]
 
 w_1 w_2 ... w_n
 
@@ -51,7 +51,7 @@ g(am_1) g(am_2) ... g(am_n)
 3	'number of criteria
 
 ###use_veto.txt
-specify if the criterion use veto factor (0 do not use veto) or (1 use veto)
+> specify if the criterion use veto factor (0 do not use veto) or (1 use veto)
 
 g_1
 
