@@ -50,7 +50,7 @@ g(am_1) g(am_2) ... g(am_n)
 
 3	'number of criteria
 
-###use_veto.txt
+### use_veto.txt
 > specify if the criterion use veto factor (0 do not use veto) or (1 use veto)
 
 g_1
