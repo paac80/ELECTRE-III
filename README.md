@@ -1,12 +1,20 @@
 # ELECTRE-III
 The ELECTRE-III method for the multicriteria ranking problem
 
-How to run?
+How to run in Windows?
 
-electreIII 
+
+1) Open CMD program in Windows,
+2) move to the directory where your unzip the electreIII-win.zip file and
+3) execute the electreIII.exe file.
+
+If you unzip your file in the drive c:\ you can run as follows in the CMD program
+c:\electreIII\electreIII
+
+It will run the electre-III with a data test in the input directory. Modify the data files in input directory to use your data.  
 
 Description of the input and output data
-The input files shoul be saved in a directory inside the /projects
+
 
 Example electreIII
 
